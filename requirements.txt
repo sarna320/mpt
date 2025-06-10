@@ -1,0 +1,5 @@
+bittensor==9.7.0
+python-dotenv
+pandas
+plotly
+numpy
